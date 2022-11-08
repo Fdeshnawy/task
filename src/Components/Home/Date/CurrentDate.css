@@ -1,0 +1,12 @@
+.date--comp{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+.date--comp p{
+    text-align: left;
+}
+
+.date--comp span{
+    color: #7d8192;
+    font-size: 14px;
+}

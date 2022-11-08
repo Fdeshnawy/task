@@ -1,0 +1,15 @@
+.list--style{
+   
+}
+.eom-offcanvas .menu-overflow ul{
+    text-align: left;
+    font-size: 20px;
+    color:gray
+}
+.eom-offcanvas .menu-overflow ul li{
+    padding: 5%;
+ }
+ .eom-offcanvas .menu-overflow ul li:hover{
+   background-color: #22a565;
+   color: white;
+}

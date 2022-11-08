@@ -1,0 +1,23 @@
+.d--tables{
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    
+    margin-top: 3%;
+}
+.row--header{
+    display: flex;
+    align-items: baseline;
+    justify-content: center!important;
+    padding-top: 20px;
+    margin-bottom: 30px;
+
+    
+}
+
+.kDEcCH{
+    display: block !important;
+    border-radius: 10px !important;
+}
+.gXicjm{
+    border-top-right-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
+}
